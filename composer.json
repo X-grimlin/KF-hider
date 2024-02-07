@@ -1,5 +1,5 @@
 {
-    "name": "fadibend/index.php",
+    "name": "fadibend/index",
     "require": {
         "php": "^7.4"
     }
