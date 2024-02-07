@@ -1,4 +1,5 @@
 {
+    "name": "X-grimlin/KF-hider",
     "require": {
         "php": "^7.4"
     }
